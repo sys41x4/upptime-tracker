@@ -1,22 +1,22 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: sys41x4 # Your GitHub organization or username, where this repository lives
+repo: upptime-tracker # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Arijit Bhowmick Personal Website
+    url: https://arijit-bhowmick.github.io
+  - name: sys41x4
+    url: https://sys41x4.github.io
+  - name: Brute OS
+    url: https://brute-os.github.io
+  - name: Dart OS
+    url: https://dart-os.github.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.arijit-bhowmick.me
+  baseUrl: /upptime-tracker
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."

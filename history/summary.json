@@ -22,9 +22,9 @@
     "url": "https://sys41x4.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/sys41x4.github.io.ico",
     "slug": "sys41x4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 163,
     "timeMonth": 192,
     "timeYear": 206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-06": 0
+    }
   },
   {
     "name": "Brute OS",
     "url": "https://brute-os.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/brute-os.github.io.ico",
     "slug": "brute-os",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,14 +53,16 @@
     "timeWeek": 190,
     "timeMonth": 181,
     "timeYear": 298,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-06": 0
+    }
   },
   {
     "name": "Dart OS",
     "url": "https://dart-os.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/dart-os.github.io.ico",
     "slug": "dart-os",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +73,8 @@
     "timeWeek": 222,
     "timeMonth": 175,
     "timeYear": 189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-06": 0
+    }
   }
 ]
